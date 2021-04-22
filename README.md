@@ -30,3 +30,7 @@ Registered Name: https://zhile.io License Key: 48891cf209c6d32bf4
 [CRA Web Vitals](https://create-react-app.dev/docs/measuring-performance/)
 
 [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
+
+[react-helmet/react-helmet-async](https://www.npmjs.com/package/react-helmet)
+
+[数学公式-MathJax](https://github.com/mathjax/MathJax)
